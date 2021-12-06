@@ -7,8 +7,8 @@
     <ProjectGuid>{3C7F3E42-CD0F-4E35-839E-98B5DAC3592A}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>GitTest3</RootNamespace>
-    <AssemblyName>GitTest3</AssemblyName>
+    <RootNamespace>GitTest3_Rename</RootNamespace>
+    <AssemblyName>GitTest3_Rename</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -46,6 +46,10 @@
     <DefineConstants>TRACE</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>
+    </StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
