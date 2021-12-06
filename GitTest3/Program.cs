@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace GitTest3
+namespace GitTest3_Rename
 {
     class Program
     {

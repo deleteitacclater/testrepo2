@@ -50,9 +50,9 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\GitTest3\GitTest3.csproj">
+    <ProjectReference Include="..\GitTest3\GitTest3_Rename2.csproj">
       <Project>{3c7f3e42-cd0f-4e35-839e-98b5dac3592a}</Project>
-      <Name>GitTest3</Name>
+      <Name>GitTest3_Rename2</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

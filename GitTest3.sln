@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GitTest3", "GitTest3\GitTest3.csproj", "{3C7F3E42-CD0F-4E35-839E-98B5DAC3592A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GitTest3_Rename2", "GitTest3\GitTest3_Rename2.csproj", "{3C7F3E42-CD0F-4E35-839E-98B5DAC3592A}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SubPrj", "SubPrj\SubPrj.csproj", "{68006A9C-CA12-4360-A4E8-F3404754A9F3}"
 EndProject
