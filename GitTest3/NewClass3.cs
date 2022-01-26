@@ -8,5 +8,6 @@ namespace GitTest3_Rename
 {
     class NewClass3
     {
+        //some change in the branch 3
     }
 }
