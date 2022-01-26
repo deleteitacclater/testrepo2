@@ -1,0 +1,13 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace GitTest3_Rename
+{
+    class NewClass3
+    {
+        //some change in the branch 3
+    }
+}
